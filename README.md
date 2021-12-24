@@ -4,9 +4,6 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/57297709/147364254-46340891-1e59-4641-8828-a9d1437f58a1.jpg)
 
 
-
-
-
 ## Built With
 
 - HTML
@@ -16,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://inspiring-hypatia-f8760e.netlify.app/)
+[Live Demo Link](https://priceless-snyder-c9760e.netlify.app/)
 
 ## Author
 
